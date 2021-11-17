@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 
-
 <table>
   <tbody>
     <tr>
-      <td> OGINGA </td>
-      <td> TEST </td>
+      <td> [![Oginga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oginga&theme=dark&title_color=009933)](https://github.com/oginga/oginga) </td>
+      <td> <a href=""><img src="res/oginga.jpg" alt="dp" width="200"></a> </td>
+    </tr>
+    <tr>
+      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oginga&layout=compact&theme=dark&title_color=009933)](https://github.com/oginga/oginga) </td>
+      <td> <a href=""><img src="res/oginga.jpg" alt="dp" width="200"></a> </td>
     </tr>
   </tbody>
  </table> 
